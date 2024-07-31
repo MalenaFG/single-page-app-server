@@ -1,0 +1,49 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Britpop",
+      "origins": {
+        "date": 1990,
+        "countries": [
+          "United Kingdom"
+        ]
+      },
+      "description": "Britpop was a mid-1990s British-based music culture movement that emphasised Britishness. Musically, Britpop produced bright, catchy alternative rock, in reaction to the darker lyrical themes and soundscapes of the US-led grunge music and the UK's own shoegaze music scene. The movement brought British alternative rock into the mainstream and formed the larger British popular cultural movement, Cool Britannia, which evoked the Swinging Sixties and the British guitar pop of that decade.",
+      "linkedBands": [
+        "Oasis",
+        "Blur",
+        "Suede",
+        "Pulp"
+      ],
+      "rate": 0,
+      "inMainstream": false,
+      "childrenGenres": [
+        "Post-Britpop"
+      ],
+      "images": [
+        "https://static.standard.co.uk/2023/06/28/09/brit%20pop2.jpg?width=1200&height=1200&fit=crop",
+        "https://static.stereogum.com/uploads/2014/04/caught-by-the-buzz.jpg",
+        "https://blog.roughtrade.com/content/images/size/w1200/2023/03/RoughTrade-Essential-Britpop.jpg"
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "genreId": 1,
+      "title": "Champagne Supernova",
+      "songBy": {
+        "band": "Oasis",
+        "link": "https: //oasisinet.com/",
+        "country": "United Kingdom"
+      },
+      "single": false,
+      "album": "(What's the story) morning glory?",
+      "cover": "https://en.wikipedia.org/wiki/File:Champagne_Supernova_sleeve_cover.jpg",
+      "video": "https://www.youtube.com/watch?v=VGfDg7wju6M",
+      "active": false,
+      "rate": 0
+    }
+  ]
+}
